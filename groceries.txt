@@ -1,4 +1,8 @@
 rice
 beans
 carrot
+<<<<<<< HEAD
 egg
+=======
+mango
+>>>>>>> test
