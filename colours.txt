@@ -1,3 +1,5 @@
 black
 blue
 yellow
+red
+brown
